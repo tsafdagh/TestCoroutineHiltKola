@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="color_category_expense_transport">#4A90E2</color>
+    <color name="color_category_expense_food">#23CC97</color>
+    <color name="color_category_expense_bills">#FFA349</color>
+    <color name="color_category_expense_sport">#05243E</color>
+    <color name="color_category_expense_home">#FF6868</color>
+    <color name="color_category_expense_pets">#BF7756</color>
+    <color name="color_category_expense_education">#8E8FFF</color>
+    <color name="color_category_expense_travel">#6BDBFF</color>
+    <color name="color_category_expense_beauty">#FF638F</color>
+    <color name="color_category_expense_kids">#73C849</color>
+    <color name="color_category_expense_helthcare">#FF5050</color>
+    <color name="color_category_expense_movie">#FCC704</color>
+    <color name="color_category_expense_other1">#7B1FA2</color>
+    <color name="color_category_expense_other2">#0097A7</color>
+    <color name="color_envoie_argent">#805b7c</color>
+    <color name="color_achat_credit">#9E3809</color>
+    <color name="unknown_categorie">#9A9A9A</color>
+
+    <color name="color_budget_1">#FEBF47</color>
+    <color name="color_budget_2">#C1C013</color>
+    <color name="color_budget_3">#F499BE</color>
+    <color name="color_budget_4">#D09B69</color>
+    <color name="color_budget_5">#ED604A</color>
+    <color name="color_budget_default">#7E57C2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_text_budget">#A0A0A0</color>
+    <color name="gray_text">#8C8C8C</color>
+
+    <color name="background_over_passed_future_cashflow">#20FF0000</color>
+    <color name="green_incomes">#66BB6A</color>
+    <color name="red_outcomes">#EF5350</color>
+</resources>

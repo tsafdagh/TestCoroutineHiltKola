@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520358672794",
+    "firebase_url": "https://testcoroutinehiltkola.firebaseio.com",
+    "project_id": "testcoroutinehiltkola",
+    "storage_bucket": "testcoroutinehiltkola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520358672794:android:22c0e55407cb38ea7de223",
+        "android_client_info": {
+          "package_name": "com.android.testcoroutinehiltkola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520358672794-parqqds9hmbctqhhrjbv6srs0nuf4por.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC99drALIKvLuE_kaWDY274wS4gQl0SpXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520358672794-parqqds9hmbctqhhrjbv6srs0nuf4por.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/budgetFragment">
+
+    <fragment
+        android:id="@+id/budgetFragment"
+        android:name="com.android.testcoroutinehiltkola.ui.budget.BudgetFragment"
+        android:label="BudgetFragment" >
+        <action
+            android:id="@+id/action_budgetFragment_to_cashFlowFragment"
+            app:destination="@id/cashFlowFragment" />
+        <action
+            android:id="@+id/action_budgetFragment_to_createBudgetFragment"
+            app:destination="@id/createBudgetFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/cashFlowFragment"
+        android:name="com.android.testcoroutinehiltkola.ui.cashflow.CashFlowFragment"
+        android:label="cash_flow_fragment"
+        tools:layout="@layout/cash_flow_fragment" />
+    <fragment
+        android:id="@+id/createBudgetFragment"
+        android:name="com.android.testcoroutinehiltkola.ui.budget.CreateBudgetFragment"
+        android:label="fragment_create_budget"
+        tools:layout="@layout/fragment_create_budget" />
+</navigation>

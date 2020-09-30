@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TestCoroutineHiltKola</string>
+
+    <!-- Bookkeeping categories names-->
+    <string name="beauty_bookkeeping">beauty</string>
+    <string name="coffee_bookkeeping">coffee</string>
+    <string name="healthcare_bookkeeping">healthcare</string>
+    <string name="home_bookkeeping">home</string>
+    <string name="bills_bookkeeping">bills</string>
+    <string name="kids_bookkeeping">kids</string>
+    <string name="movie_bookkeeping">movie</string>
+    <string name="communication_bookkeeping">communication</string>
+    <string name="pets_bookkeeping">pets</string>
+    <string name="sport_bookkeeping">sport</string>
+    <string name="transport_bookkeeping">transport</string>
+    <string name="travel_bookkeeping">travel</string>
+    <string name="placeholder_note_cashflow">rasta chez Maggi</string>
+    <string name="bookkeeping_title">Bookkeeping</string>
+    <string name="income_bookkeeping">Income</string>
+    <string name="transfer_bookkeeping">Transfer</string>
+    <string name="airtime_bookkeeping">Airtime</string>
+    <string name="unknown_bookkeeping">Unknown</string>
+    <string name="education_bookkeeping">education</string>
+    <string name="add_budget">Add Budget</string>
+    <string name="budget_str">Budget</string>
+    <string name="today">Today</string>
+    <string name="yesterday_str">Yesterday</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notifications">Notifications</string>
+    <string name="ending_date_str">Ending Date</string>
+    <string name="starting_date_str">StartingDate</string>
+    <string name="recurrence">Recurrence</string>
+    <string name="amount">Amount</string>
+    <string name="name">Name</string>
+</resources>
