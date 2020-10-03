@@ -15,9 +15,11 @@ import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.android.components.ApplicationComponent
 import dagger.hilt.android.qualifiers.ApplicationContext
+import kotlinx.coroutines.ExperimentalCoroutinesApi
 import javax.inject.Qualifier
 import javax.inject.Singleton
 
+@ExperimentalCoroutinesApi
 @InstallIn(ApplicationComponent::class)
 @Module
 class MyModule {

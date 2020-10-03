@@ -10,5 +10,5 @@ interface DataSource {
 
     suspend fun updateBudget (Budget: Budget) :Boolean
 
-    suspend fun getBudgets (): List<Budget>
+    fun getBudgets (): Flow<List<Budget>>
 }
