@@ -12,8 +12,6 @@ sealed class Resource<out T> {
         is Loading -> partialData
         is Failure -> partialDataFaillure
     }
-
-
 }
 
 sealed class FirebaseResponseType<out T> {

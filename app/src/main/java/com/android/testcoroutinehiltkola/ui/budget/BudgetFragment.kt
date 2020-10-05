@@ -69,6 +69,7 @@ class BudgetFragment : Fragment() {
         //viewModel.setStateEvent(budgetStateEvent)
     }
 
+    @ExperimentalCoroutinesApi
     private fun observeDataState() {
         viewModel.myTestFlowLivedata.observe(viewLifecycleOwner, Observer { dataState ->
             when (dataState) {
